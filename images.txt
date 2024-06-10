@@ -2,3 +2,4 @@ alpine
 louislam/dockge
 halohub/halo
  halohub/halo:2.16.2
+cpolar:3.3.18
