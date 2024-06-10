@@ -3,3 +3,4 @@ louislam/dockge
 halohub/halo
  halohub/halo:2.16.2
 probezy/cpolar:latest
+nginx
